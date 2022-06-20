@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- I'm currently working on a SPA Language Game. Stay Tuned!
+
+## Building With
+![Javascript](https://img.shields.io/badge/JAVASCRIPT-%23F7DF1E?logo=javascript&style=for-the-badge&logoColor=%23000)
+![TYPESCRIPT](https://img.shields.io/badge/TYPESCRIPT-%233178C6?logo=typescript&style=for-the-badge&logoColor=%23fff)
+![Python](https://img.shields.io/badge/Python-%233776AB?logo=python&style=for-the-badge&logoColor=%23fff)
+![React](https://img.shields.io/badge/React-%2361DAFB?logo=react&style=for-the-badge&logoColor=%23000)
