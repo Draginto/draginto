@@ -16,6 +16,7 @@ I welcome you to my humble abode. I know this isn't social media but let me intr
 ![TYPESCRIPT](https://img.shields.io/badge/TYPESCRIPT-%233178C6?logo=typescript&style=for-the-badge&logoColor=%23fff)
 ![Python](https://img.shields.io/badge/Python-%233776AB?logo=python&style=for-the-badge&logoColor=%23fff)
 ![React](https://img.shields.io/badge/React-%2361DAFB?logo=react&style=for-the-badge&logoColor=%23000)
+![VUE](https://img.shields.io/badge/vue.js-%234FC08D?logo=vue.js&style=for-the-badge&logoColor=%23fff)
 ![NODE](https://img.shields.io/badge/Node-%23339933?logo=Node.js&style=for-the-badge&logoColor=%23fff)
 ![Mongodb](https://img.shields.io/badge/MongoDB-%2347A248?logo=mongodb&style=for-the-badge&logoColor=%23fff)
 ![Express](https://img.shields.io/badge/express-%23000?logo=express&style=for-the-badge&logoColor=%23fff)
@@ -29,6 +30,5 @@ I welcome you to my humble abode. I know this isn't social media but let me intr
 
 ## Currently Learning
 ![GRAPHQL](https://img.shields.io/badge/graphql-%23E10098?logo=graphql&style=for-the-badge&logoColor=%23fff)
-![VUE](https://img.shields.io/badge/vue.js-%234FC08D?logo=vue.js&style=for-the-badge&logoColor=%23fff)
 
 [![Marc's Github Stats](https://github-readme-stats.vercel.app/api?username=draginto)](https://github.com/anuraghazra/github-readme-stats)
